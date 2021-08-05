@@ -3,3 +3,4 @@ another line is modified
 line added
 jjj
 jkjkk
+kkkk
