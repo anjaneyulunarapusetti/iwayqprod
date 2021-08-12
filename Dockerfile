@@ -5,4 +5,4 @@ WORKDIR /var/www/java
 
 
 RUN ["javac", "Helloworld.java"]
-ENTRYPOINT ["java","Helloworld"]
+ENTRYPOINT ["java","-jar","sample.war"]
